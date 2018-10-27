@@ -1,25 +1,16 @@
 body {
-  font-family:  Arial,Helvetica,sans-serif;
-  font-size: 16px;
+    color: #2ecc71;
+    background: white;
+    font-family: Arial, sans-serif;
 }
 
-header ul{
-  margin: 0;
-  padding: 0;
+h1, h2, h3, h4, h5{
+    font-family: 'Open Sans', sans-serif;
 }
 
-header li{
-  float: middle;
-  display: inline;
-  padding: 0 20px 0 20px;
-}
-
-.body{
-  padding-top: 50px;
-}
-
-.body li{
-  float: middle;
-  display: inline;
-  padding: 0 20px 0 20px;
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
 }

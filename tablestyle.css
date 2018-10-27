@@ -1,0 +1,10 @@
+.rwd-table {
+    margin: 1em 0;
+    min-width: 300px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.rwd-table th{
+    display: none;
+}
